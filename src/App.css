@@ -48,7 +48,7 @@ border-bottom: 0.1875rem solid var(--primary-orange);
     background-size: cover ;
     background-position: center;
     position: relative;
-    height: 91.9vh;
+    height:91.9vh;
 }
 .main-info {
   display: flex;
@@ -107,7 +107,7 @@ border-bottom: 0.1875rem solid var(--primary-orange);
 /****** paticles js***********/
 .tsparticles-canvas-el {
   position: absolute;
-  height: 100vh;
+  height: 91.9%!important;
   width: 100vw;
   z-index: 1;
 }
